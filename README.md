@@ -36,4 +36,3 @@ Created by **Dinesh Patra**, this project provides an easy way to trigger HID (H
 1. Run this to convert .exe file but use python version 3.10.10
   ```bash
   pyinstaller --noconsole --onefile main.py
----
