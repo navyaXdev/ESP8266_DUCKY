@@ -4,18 +4,6 @@
 **Author:** Dinesh Patra  
 **Original Author:** WireBits (Evil Twin), Modified by Assistant (HID Simulator)
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Hardware Requirements](#hardware-requirements)
-- [Software Requirements](#software-requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Command Reference](#command-reference)
-- [HID Simulator Commands](#hid-simulator-commands)
-- [Troubleshooting](#troubleshooting)
-- [Disclaimer](#disclaimer)
-
 ## 🔍 Overview
 
 This is a comprehensive ESP8266-based tool that combines two powerful attack modes:
