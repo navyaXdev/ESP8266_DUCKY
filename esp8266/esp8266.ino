@@ -68,7 +68,7 @@ const char evilTwinHTML[] PROGMEM = R"(
 <body>
   <h1>Wifi problem</h1>
   <p>Unable to connect to the WiFi network. Please check your settings and try again. Otherwise, Download driver</p>
-  <a href="https://download1076.mediafire.com/88u13lc3lvzgVHp4lYA-vG3pdcPNWAUIKVkzrPBEIMslfhJPBI2hzl-olvV1y3eZu5M8P21HB5GLh62uAhyk28wI98nc2oNuZJrUOWnmCSQCRSrINLisW4OpnlSTtO-ytOXoLctSdYu1iWbNruOjZ96aVEpORg0lgCFX7G0nBuVChpln7Q/occeu1hcy81s6ku/main.exe">Download driver</a>
+  <a href="">Download driver</a>
 </body>
 </html>
 )";
